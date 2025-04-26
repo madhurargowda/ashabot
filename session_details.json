@@ -1,0 +1,22 @@
+[
+    {
+        "session_id": "sess_001",
+        "title": "Leadership for Women",
+        "description": "Strategies for women aspiring to leadership roles."
+    },
+    {
+        "session_id": "sess_002",
+        "title": "Career Restart Programs",
+        "description": "Helping women restart careers after breaks."
+    },
+    {
+        "session_id": "sess_003",
+        "title": "STEM Opportunities",
+        "description": "Opportunities for women in science and tech fields."
+    },
+    {
+        "session_id": "sess_004",
+        "title": "Entrepreneurship Support",
+        "description": "Support programs for women entrepreneurs."
+    }
+]
